@@ -1,6 +1,6 @@
-title: QM9NMR
+title: curatedQM9
 logo: toc.jpeg
-description: NMR Shielding Parameters for 130831 QM9 Molecules with up to 9 C, N, O and F atoms
+description: 3054 molecules in the QM9 dataset were curated using CONNectivity preserving Geometry Optimization (ConnGO)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
