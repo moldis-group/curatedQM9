@@ -1,4 +1,3 @@
 ### See
 
-https://moldis-group.github.io/qm9nmr/
-
+https://moldis-group.github.io/curatedQM9
