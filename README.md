@@ -1,2 +1,4 @@
-# curatedQM9
-curated version of the QM9 dataset
+### See
+
+https://moldis-group.github.io/qm9nmr/
+
