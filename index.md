@@ -88,7 +88,6 @@ Chemical Science 12 (2021) 5566
   year={2021},
   publisher={Royal Society of Chemistry}
 }
-{"mode":"full","isActive":false}
 ```
 
 [Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)          
