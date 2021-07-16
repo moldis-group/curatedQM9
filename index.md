@@ -72,22 +72,23 @@ _19 June 2021: In our original upload, the atomic indices of the baseline data s
 ***
 
 ## References
-[Ref-1] [_Revving up <sup>13</sup>C NMR shielding predictions across chemical space: benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347)            
-Amit Gupta, Sabyasachi Chakraborty and Raghunathan Ramakrishnan     
-Mach. Learn.: Sci. Technol. 2 (2021) 035010     
-[Supplementary Information to the article (PDF)](data/SI.pdf)
+[Ref-1] [_Troubleshooting unstable molecules in chemical space_](https://doi.org/10.1039/D0SC05591C)            
+Salini Senthil, Sabyasachi Chakraborty and Raghunathan Ramakrishnan     
+Chemical Science 12 (2021) 5566     
+[Supplementary Information to the article (PDF)](https://www.rsc.org/suppdata/d0/sc/d0sc05591c/d0sc05591c1.pdf)
 
 ```
-@article{gupta2021revving,
-  title={Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules},
-  author={Gupta, Amit and Chakraborty, Sabyasachi and Ramakrishnan, Raghunathan},
-  journal={Machine Learning: Science and Technology},
-  volume={2},
-  number={3},
-  pages={035010},
+@article{senthil2021troubleshooting,
+  title={Troubleshooting unstable molecules in chemical space},
+  author={Senthil, Salini and Chakraborty, Sabyasachi and Ramakrishnan, Raghunathan},
+  journal={Chemical Science},
+  volume={12},
+  number={15},
+  pages={5566--5573},
   year={2021},
-  publisher={IOP Publishing}
+  publisher={Royal Society of Chemistry}
 }
+{"mode":"full","isActive":false}
 ```
 
 [Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)          
