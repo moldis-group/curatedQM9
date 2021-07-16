@@ -8,6 +8,8 @@ The QM9 dataset [Ref-1] comprises structures and properties of 133,885 stable, s
 
 Download link: [133660_curatedQM9_outof_133885.zip, 208 MB](https://drive.google.com/file/d/12jDXoVPkNnDwAWvKlDncF5iUWWDk0yZ-/view?usp=sharing). 
 
+The zip contains 133660 xyz files, where atomic coordinates are augmented with additional molecular properties as outlined in Table-2 and Table-3 of [Ref-1].
+
 ***
 
 ## References
